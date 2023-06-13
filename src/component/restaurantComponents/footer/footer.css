@@ -1,0 +1,62 @@
+h4{
+    font-size: 20px;
+    color: #222;
+}
+
+.section-p1{
+    padding: 40px 80px;
+}
+
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 100px;
+    background-color: #ede1be;
+}
+
+footer .col{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+footer .logo{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+footer h4{
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+footer .col p{
+    font-size: 13px;
+    margin: 0 0 8px 0;
+}
+
+footer a{
+    font-size: 15px;
+    text-decoration: none;
+    color: #222;
+    margin-bottom: 10px;
+}
+
+footer .follow{
+    margin-top: 20px;
+}
+
+footer a:hover{
+    color: #088178;
+}
+
+footer .copyright {
+    width: 100%;
+    text-align: center;
+}
+
+footer .copyright p{
+    font-size: 16px;
+}
